@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Power Integer,Given an integer k, return the k power integer Or kth ugly number,100.0,49.6%,https://leetcode.com/problems/ugly-number-ii,"Math, Dynamic Programming, Hash Table, Heap (Priority Queue)"
+MEDIUM,"Power Integer,Given an integer k, return the k power integer Or kth ugly number",100.0,49.6%,https://leetcode.com/problems/ugly-number-ii,"Math, Dynamic Programming, Hash Table, Heap (Priority Queue)"
